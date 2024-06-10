@@ -1,0 +1,8 @@
+pandas
+numpy
+opencv-python
+scikit-learn
+tensorflow
+flask
+gunicorn
+prefect
